@@ -9,3 +9,6 @@ The data of the Government website itself has delays of up **two days** compared
 
 **More raw data of other countries/regions:**
   * Italy (one data set per day)  https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
+
+
+Steffen Kube, Jena
