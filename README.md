@@ -1,7 +1,8 @@
 # Corona
 Corona related code and data sets.
 
-I will publish some raw data related to clinical measures from the Bundesland Thuringia (Germany). The source of this data currently is a website of the Government of Thuringia ( https://www.landesregierung-thueringen.de/corona-bulletin ).
+I will publish some raw data (see thuringia_data/covid19-thuringia.csv ) related to clinical measures from the Bundesland Thuringia (Germany). The data set will be updated **once every day**. 
+The source of this data currently is a website of the Government of Thuringia ( https://www.landesregierung-thueringen.de/corona-bulletin ).
 
 The data of the Government website itself has delays of up **two days** compared with the local health department (Gesundheitsamt) of the region.
 
