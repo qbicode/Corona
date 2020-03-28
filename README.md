@@ -1,4 +1,4 @@
-# Corona
+# Corona - raw data of infected/patient numbers and related hospital measures (focus: Thuringia, Germany)
 Corona related code and data sets.
 
 I will publish some raw data (see thuringia_data/covid19-thuringia.csv ) related to clinical measures from the Bundesland Thuringia (Germany). The data set will be updated **once every day**. 
