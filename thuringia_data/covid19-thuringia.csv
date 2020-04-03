@@ -1,4 +1,28 @@
 Date,Region,Cases_day_before,Current_cases,Cases_last_24h,Hospital_all_patients,Hospital_only_COVID-19,Hospital_serious,Deceased
+2020-04-03,Altenburger Land,28,30,2,3,2,1,0
+2020-04-03,Eichsfeld,59,61,2,8,8,2,1
+2020-04-03,Gotha,27,34,7,7,5,0,0
+2020-04-03,Greiz,154,166,12,34,28,5,5
+2020-04-03,Hildburghausen,7,7,0,1,1,0,0
+2020-04-03,Ilm-Kreis,65,74,9,5,5,1,1
+2020-04-03,Kyffhäuserkreis,23,25,2,1,1,0,0
+2020-04-03,Nordhausen,16,20,4,3,3,1,0
+2020-04-03,Saale-Holzland-Kreis,31,35,4,2,1,0,0
+2020-04-03,Saale-Orla-Kreis,41,50,9,12,10,0,0
+2020-04-03,Saalfeld-Rudolstadt,45,47,2,5,3,0,0
+2020-04-03,Schmalkalden-Meiningen,33,35,2,1,1,1,0
+2020-04-03,Sömmerda,27,29,2,3,3,0,0
+2020-04-03,Sonneberg,30,33,3,4,4,1,1
+2020-04-03,Unstrut-Hainich-Kreis,21,25,4,5,4,0,0
+2020-04-03,Wartburgkreis,26,28,2,3,3,1,0
+2020-04-03,Weimarer Land,29,30,1,6,4,0,0
+2020-04-03,Eisenach,6,6,0,2,2,1,0
+2020-04-03,Erfurt,87,89,2,8,6,1,0
+2020-04-03,Gera,25,34,9,3,3,0,0
+2020-04-03,Jena,117,117,0,11,6,0,1
+2020-04-03,Suhl,7,7,0,3,3,2,0
+2020-04-03,Weimar,34,39,5,7,5,0,0
+2020-04-03,Summe:,938,1021,83,137,111,17,9
 2020-04-02,Altenburger Land,24,28,4,3,2,1,0
 2020-04-02,Eichsfeld,55,59,4,7,7,2,1
 2020-04-02,Gotha,26,27,1,6,4,0,0
