@@ -4,7 +4,7 @@ This folder contains raw data related to clinical measures from the Bundesland T
 
 Data sets:
   * covid19-thuringia.csv (source: website of the Government of Thuringia - https://www.landesregierung-thueringen.de/corona-bulletin )
-
+  * City of Jena: https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad
 Data quality/update delays:
   * Government of Thuringia :  delays of up **two days** compared with the local health department (Gesundheitsamt) of the region
 
