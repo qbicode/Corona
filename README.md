@@ -7,6 +7,7 @@ Please visit the **thuringia_data** sub-folder.
 
 **More raw data of other countries/regions:**
   * Italy (one data set per day)  https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
+  * France (includes hospital stays and more)  https://github.com/opencovid19-fr/data
   * USA: 
     * http://covid19.healthdata.org/projections ; massiv raw data: https://ihmecovid19storage.blob.core.windows.net/latest/ihme-covid19.zip
 
